@@ -7,7 +7,7 @@ public class Main {
 
         info3.grupe.get(0).semigrupe.add(new Semigrupa("Semigrupa 1"));
         info3.grupe.get(0).semigrupe.get(0).studenti.add(new Student("Popescu I","popescu@acme.edu.ro"));
-            info3.grupe.get(0).semigrupe.get(0).studenti.add(new Student("Ionescu I","popescu@acme.edu.ro"));
+        info3.grupe.get(0).semigrupe.get(0).studenti.add(new Student("Ionescu I","popescu@acme.edu.ro"));
 
         info3.grupe.get(0).semigrupe.add(new Semigrupa("Semigrupa 1.2"));
         info3.grupe.get(0).semigrupe.get(1).studenti.add(new Student("Vasilescu I","vasilescu@acme.edu.ro"));
